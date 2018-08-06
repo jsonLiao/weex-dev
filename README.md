@@ -1,4 +1,4 @@
-## 基本命令说明1
+## 基本命令说明
 
 ## 淘宝
 ## npm install -g cnpm --registry=https://registry.npm.taobao.org
