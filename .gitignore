@@ -1,0 +1,12 @@
+/node_modules/
+/dist/
+/dist/index.js
+/release/
+/.temp/
+/platforms/
+/web/
+/.temp/
+/.temp/entry.js
+/.temp/router.js
+/.temp
+/dist
